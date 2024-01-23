@@ -1,4 +1,4 @@
-# Arcade Borne Feedback Web Page
+# Arcade Machine Feedback Web Page
 
 This repository contains the code for a web page dedicated to the collection of feedback and requests from users of our arcade machines. The project is a collaboration between @aent0n and @eliotrineau.
 
